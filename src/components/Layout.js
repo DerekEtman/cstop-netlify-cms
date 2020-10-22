@@ -38,7 +38,7 @@ const TemplateWrapper = ({ children }) => {
 
         <link
           rel="mask-icon"
-          href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
+          href={`${withPrefix('/')}img/favicon-256x256.png`}
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
@@ -48,7 +48,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/favicon.png`}
         />
       </Helmet>
       <Navbar />

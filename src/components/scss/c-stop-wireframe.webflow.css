@@ -603,7 +603,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/jeshoots-com-__ZMnefoI3k-unsplash.jpg');
+  background-image: url('../../img/jeshoots-com-__ZMnefoI3k-unsplash.jpg');
   background-position: 0% -10%;
   background-size: 130%;
   background-attachment: fixed;
@@ -613,7 +613,7 @@ figcaption {
 .intro-header.cc-subpage {
   height: 500px;
   background-color: #006ac0;
-  background-image: url('../images/sean-horsburgh-CXyQ5_64LaM-unsplash.jpg');
+  background-image: url('../../img/sean-horsburgh-CXyQ5_64LaM-unsplash.jpg');
   background-position: 100% 29%;
   background-size: 130%;
   background-attachment: fixed;
@@ -623,7 +623,7 @@ figcaption {
 .intro-header.servicesheader {
   height: 500px;
   background-color: #006ac0;
-  background-image: url('../images/mika-baumeister-uz_T7h8ds04-unsplash.jpg');
+  background-image: url('../../img/mika-baumeister-uz_T7h8ds04-unsplash.jpg');
   background-position: 100% 29%;
   background-size: 130%;
   background-attachment: fixed;
@@ -633,7 +633,7 @@ figcaption {
 .intro-header.aboutheader {
   height: 610px;
   background-color: #006ac0;
-  background-image: url('../images/volodymyr-hryshchenko-7JAyy7jLTAk-unsplash.jpg');
+  background-image: url('../../img/volodymyr-hryshchenko-7JAyy7jLTAk-unsplash.jpg');
   background-position: 50% 50%;
   background-size: 120%;
   background-attachment: fixed;
@@ -857,7 +857,7 @@ figcaption {
   height: 420px;
   margin-bottom: 40px;
   background-color: #f4f4f4;
-  background-image: url('../images/android-chrome-512x512.png');
+  background-image: url('../../img/android-chrome-512x512.png');
   background-position: 50% 50%;
   background-size: auto 100%;
 }
@@ -980,14 +980,14 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/portfolio-1---wide.svg');
+  background-image: url('../../img/portfolio-1---wide.svg');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
 }
 
 .project-overview-header.cc-project-2-header {
-  background-image: url('../images/portfolio-2---wide.svg');
+  background-image: url('../../img/portfolio-2---wide.svg');
   background-position: 50% 50%;
 }
 
@@ -1349,7 +1349,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/jeshoots-com-__ZMnefoI3k-unsplash.jpg');
+  background-image: url('../../img/jeshoots-com-__ZMnefoI3k-unsplash.jpg');
   background-position: 50% 0%;
   background-size: cover;
   background-attachment: fixed;
@@ -1359,7 +1359,7 @@ figcaption {
 .contact_header.cc-subpage {
   height: 500px;
   background-color: #006ac0;
-  background-image: url('../images/clarissa-watson-2gzfzR13DOQ-unsplash.jpg');
+  background-image: url('../../img/clarissa-watson-2gzfzR13DOQ-unsplash.jpg');
   background-position: 100% 29%;
   background-size: 130%;
   background-attachment: fixed;
