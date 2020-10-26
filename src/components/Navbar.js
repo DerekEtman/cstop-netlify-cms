@@ -1,6 +1,5 @@
-import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import React from "react";
 import logo from "../img/cStopFullColor.png";
 
 const Navbar = class extends React.Component {
@@ -33,7 +32,6 @@ const Navbar = class extends React.Component {
 	};
 
 	render() {
-		console.log("Hi");
 		return (
 			<div
 				data-collapse="medium"
