@@ -11,6 +11,7 @@ import { withPrefix } from 'gatsby'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
+
   return (
     <div>
       <Helmet>
